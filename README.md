@@ -28,8 +28,8 @@ If the file does not exist or cannot be accessed, the program shows an error mes
 
 🖥️ Usage
 1. Clone or Download the Program
-git clone https://github.com/your-username/file-read-write-challenge.git
-cd file-read-write-challenge
+git clone https://github.com/Muigai-Kiongo/Read-Write.git
+cd Read-Write
 
 2. Run the Script
 python main.py
@@ -38,12 +38,12 @@ python main.py
 
 Example:
 
-Enter the name of the file to read: example.txt
+Enter the name of the file to read: name.txt
 
 
 If successful, a new file will be created:
 
-✅ Modified content written to modified_example.txt
+✅ Modified content written to modified_name.txt
 
 ⚠️ Error Handling
 
@@ -71,13 +71,13 @@ Add your own text-processing logic
 
 📜 Example
 
-Input file (example.txt):
+Input file (name.txt):
 
 Hello, World!
 This is a test.
 
 
-Output file (modified_example.txt):
+Output file (modified_name.txt):
 
 HELLO, WORLD!
 THIS IS A TEST.
